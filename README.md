@@ -8,5 +8,5 @@
 #
 #-- More at https://grandekos.com  --#
 
-#-- &nbsp;&nbsp;&nbsp;&nbsp; By `People` --> For `People` &nbsp;&nbsp;    --#
+#-- &nbsp;&nbsp;&nbsp; By `People` --> For `People` &nbsp;    --#
 
