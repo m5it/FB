@@ -9,5 +9,5 @@
 #-- More at https://grandekos.com  --#
 
 
-#--     By People - For People     --#
+#-- &nbsp;&nbsp;&nbsp;&nbsp; By People --> For People &nbsp;&nbsp;    --#
 
