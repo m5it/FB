@@ -11,5 +11,7 @@
 #
 #-- More at https://grandekos.com  --#
 
+#-- https://grandekos.com/index.php?static_page=Memorize%2FFacebook&=  --#
+
 #-- &nbsp; By `People` --> For `People` &nbsp;   --#
 
